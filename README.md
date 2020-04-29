@@ -4,4 +4,9 @@
 ```yarn```
 
 ### Development
-```yarn start:dev```
+```yarn start```
+
+### Todo
+
+- Git hooks
+- Jest
