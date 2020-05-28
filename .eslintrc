@@ -11,5 +11,9 @@
    "plugin:@typescript-eslint/eslint-recommended",
    "plugin:@typescript-eslint/recommended",
    "plugin:@typescript-eslint/recommended-requiring-type-checking"
-  ]
+  ],
+  "rules": {
+    "no-console": "off",
+    "@typescript-eslint/no-explicit-any": "off"
+  }
 }
